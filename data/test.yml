@@ -1,0 +1,12 @@
+users:
+    - user1:
+            username: tester001
+            password: 123456
+    - user2:
+           username: tester002
+           password: p@ssword
+server:
+  host: localhost
+  password: root
+  post: 3306
+  user: root
