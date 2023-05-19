@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 17 11:46:43 CST 2023","Wed May 17 11:46:50 CST 2023","7051","testcases","test_page1","TestCases","","","test_1","
+        验证有效的用户名和密码成功登录系统
+        "

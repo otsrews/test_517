@@ -1,0 +1,103 @@
+{
+  "uid" : "7256603bdc036ae3",
+  "name" : "test_1",
+  "fullName" : "testcases.test_page1.TestCases#test_1",
+  "historyId" : "8845c8b9b858af9224eebff36499498a",
+  "time" : {
+    "start" : 1684236912767,
+    "stop" : 1684236918094,
+    "duration" : 5327
+  },
+  "description" : "\n        验证有效的用户名和密码成功登录系统\n        ",
+  "descriptionHtml" : "<pre><code>    验证有效的用户名和密码成功登录系统\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1684236904447,
+      "stop" : 1684236912764,
+      "duration" : 8317
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        验证有效的用户名和密码成功登录系统\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6c41b7bfdb3cd65b",
+      "name" : "log",
+      "source" : "6c41b7bfdb3cd65b.txt",
+      "type" : "text/plain",
+      "size" : 76
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1684236918095,
+      "stop" : 1684236920483,
+      "duration" : 2388
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_page1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "host",
+    "value" : "SZITHW0016"
+  }, {
+    "name" : "thread",
+    "value" : "15332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_page1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7256603bdc036ae3.json",
+  "parameterValues" : [ ]
+}
